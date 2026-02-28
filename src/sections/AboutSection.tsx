@@ -74,7 +74,7 @@ export function AboutSection() {
             <div className="space-y-4">
               {[
                 { icon: MapPin, label: "Location", value: personalInfo.location },
-                { icon: GraduationCap, label: "Degree", value: "B.Sc Computer Science, IIIT Sri City" },
+                { icon: GraduationCap, label: "Degree", value: "B.Tech Computer Science, IIIT Sri City" },
                 { icon: Calendar, label: "Graduation", value: "Aug 2026" },
               ].map(({ icon: Icon, label, value }) => (
                 <motion.div

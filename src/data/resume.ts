@@ -1,7 +1,7 @@
 export const personalInfo = {
   name: "Sruthi Kommati",
   role: "SDE / Full-Stack Developer",
-  location: "Rajanna Sircilla, Hyderabad, Telangana",
+  location: "SriCity,Chittoor, Andhra Pradesh",
   phone: "93470-49414",
   email: "sruthi.k22@iiits.in",
   linkedin: "https://linkedin.com/in/sruthikommati",
@@ -14,7 +14,7 @@ export const personalInfo = {
 export const education = [
   {
     institution: "Indian Institute of Information Technology, Sri City, Chittoor",
-    degree: "B.Sc in Computer Science",
+    degree: "B.Tech in Computer Science",
     period: "Nov 2022 – Aug 2026",
     cgpa: "7.20/10",
     coursework:
